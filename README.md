@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and primitives is the entry
 
 ## Images
 
-[![primitives](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![primitives](images/preview.png)](https://github.com/Swift-Tech-Co/primitives)
 
 ## Installation
 
@@ -42,7 +42,7 @@ Please follow our [contributing guidelines](./.github/CONTRIBUTING.md).
 
 ## Thanks
 
-<a href="https://www.swifttechco.com"></a>
+<a href="https://github.com/Swift-Tech-Co/primitives"></a>
 
 Thanks to Chromatic for providing the visual testing platform that helps us review UI changes and catch visual regressions.
 
@@ -66,13 +66,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/primitives
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [radix-ui/primitives](https://github.com/radix-ui/primitives) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
