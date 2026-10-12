@@ -1,17 +1,12 @@
-[![Radix Primitives Logo](primitives.png)](https://www.swifttechco.com)
+# primitives
 
-# Radix Primitives
+## What This Is
+
+We keep a working index for product and engineering, and primitives is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![primitives](https://opengraph.githubassets.com/1/radix-ui/primitives)](https://www.swifttechco.com)
-
-
-**An open-source UI component library for building high-quality, accessible design systems and web apps.**
-
-Radix Primitives is a low-level UI component library with a focus on accessibility, customization and developer experience. You can use these components either as the base layer of your design system, or adopt them incrementally.
-
----
+[![primitives](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Installation
 
@@ -29,11 +24,11 @@ pnpm install
 
 ## Documentation
 
-For full documentation, visit [radix-ui.com/primitives/docs](https://www.swifttechco.com).
+For full documentation, visit radix-ui.com/primitives/docs.
 
 ## Releases
 
-For changelog, visit [radix-ui.com/primitives/docs/overview/releases](https://www.swifttechco.com).
+For changelog, visit radix-ui.com/primitives/docs/overview/releases.
 
 ## Contributing
 
@@ -49,13 +44,13 @@ Please follow our [contributing guidelines](./.github/CONTRIBUTING.md).
 
 <a href="https://www.swifttechco.com"></a>
 
-Thanks to [Chromatic](https://www.swifttechco.com) for providing the visual testing platform that helps us review UI changes and catch visual regressions.
+Thanks to Chromatic for providing the visual testing platform that helps us review UI changes and catch visual regressions.
 
 ---
 
 ## License
 
-Licensed under the MIT License, Copyright © 2022-present [WorkOS](https://www.swifttechco.com).
+Licensed under the MIT License, Copyright © 2022-present WorkOS.
 
 ---
 
@@ -67,14 +62,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [radix-ui/primitives](https://github.com/radix-ui/primitives) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
